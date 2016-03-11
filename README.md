@@ -1,7 +1,7 @@
 
 ## FRONT-END Web Developer Nanodegree certificate
 
-![Udacity frontend nanodegree certificate] (https://drive.google.com/file/d/0B4qMqwHqzixFeGQtQ1Y4d3lRSjQ/view?usp=sharing)
+* [Udacity frontend nanodegree certificate] (https://drive.google.com/file/d/0B4qMqwHqzixFeGQtQ1Y4d3lRSjQ/view?usp=sharing)
 
 
 ## PROJECTS
